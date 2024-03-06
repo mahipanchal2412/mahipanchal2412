@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahi Dilip Panchal</h1>
 <h3 align="center">A passionate frontend Web Developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://assets-v2.lottiefiles.com/a/f75ac2f2-116a-11ee-aa38-a35154041321/UTSEH078Aw.gif">
 
 - 🌱 I’m currently learning **Reactjs and Nodejs**
 
