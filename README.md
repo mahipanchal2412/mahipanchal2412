@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mahi Dilip Panchal</h1>
 <h3 align="center">A passionate frontend Web Developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://assets-v2.lottiefiles.com/a/f75ac2f2-116a-11ee-aa38-a35154041321/UTSEH078Aw.gif">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 - 🌱 I’m currently learning **Reactjs and Nodejs**
 
 - 📫 How to reach me **mahipanchal2412@gmail.com**
 
 - ⚡ Fun fact **Everyday is a Good Day**
-
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSul2xsoMWnHckE4Uw49QeKoB9JDzCL2kJdMA&usqp=CAU
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mahipanchal2412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahipanchal2412" height="30" width="40" /></a>
